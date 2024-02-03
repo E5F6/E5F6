@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate and versatile Fullstack Developer with expertise in various technologies. My journey in coding has led me to become proficient in:
+I'm a passionate and versatile FrontEnd Developer with expertise in various technologies. My journey in coding has led me to become proficient in:
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
