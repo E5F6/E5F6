@@ -14,7 +14,10 @@ I'm a passionate and versatile Fullstack Developer with expertise in various tec
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </div>
+
 
 I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
 
@@ -23,10 +26,14 @@ I enjoy turning complex problems into simple, beautiful, and intuitive solutions
 - **Languages:** JavaScript, Java, Python, C++, C#
 - **Web Development:** HTML, CSS, Tailwind CSS, Bootstrap
 - **Version Control:** Git
+- **Operating System:** Linux, Windows
 
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priyannxhuu&show_icons=true&theme=radical)
+
+## 🌟 Current Streak
+![Your Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=Priyannxhuu&theme=radical)
 
 ## 📊 Most Used Languages
 
