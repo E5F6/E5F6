@@ -1,4 +1,4 @@
-# Hello, I'm Priyanshu Chahar 👋
+# Hello, I'm Priyanshu Chahar
 
 ## About Me
 
