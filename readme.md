@@ -46,4 +46,4 @@ Feel free to explore my repositories, and don't hesitate to reach out if you hav
 
 ![https:https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1292677%2Fscreenshots%2F6139167%2Favento.gif&f=1&nofb=1&ipt=af2d9a6554d76c147dad334e543580ed7956118ba061c4cd652ccdc7492e52e3&ipo=images](https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif)
 
-## Happy coding! 🚀
+[![](https://visitcount.itsvg.in/api?id=Priyannxhuu&label=Profile%20Views&color=12&icon=1&pretty=false)](https://visitcount.itsvg.in)
