@@ -28,13 +28,10 @@ I enjoy turning complex problems into simple, beautiful, and intuitive solutions
 - **Version Control:** Git
 - **Operating System:** Linux, Windows
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priyannxhuu&show_icons=true&theme=radical)
-
-![Your Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=Priyannxhuu&theme=radical)
-
-![Your Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyannxhuu&layout=compact&theme=radical)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Priyannxhuu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Priyannxhuu&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyannxhuu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ## 📫 Let's Connect
