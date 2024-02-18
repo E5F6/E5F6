@@ -16,6 +16,7 @@ I'm a passionate and versatile FrontEnd Developer with expertise in various tech
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white" alt="React Js">
 </div>
 
 
@@ -24,7 +25,7 @@ I enjoy turning complex problems into simple, beautiful, and intuitive solutions
 ## 🔧 Skills
 
 - **Languages:** JavaScript, Java, Python, C++, C#
-- **Web Development:** HTML, CSS, Tailwind CSS, Bootstrap
+- **Web Development:** HTML, CSS, Tailwind CSS, Bootstrap , React JS
 - **Version Control:** Git
 - **Operating System:** Linux, Windows
 
