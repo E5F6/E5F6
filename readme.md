@@ -22,7 +22,7 @@ I'm a passionate and versatile FrontEnd Developer with expertise in various tech
 
 I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
 
-## 🔧 Skills
+## 💻 Tech Stack
 
 - **Languages:** JavaScript, Java, Python, C++, C#
 - **Web Development:** HTML, CSS, Tailwind CSS, Bootstrap , React JS
