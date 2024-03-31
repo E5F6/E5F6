@@ -39,4 +39,4 @@ More about me and other links: [More Links](https://priyannxhuu.vercel.app)
 
 [![](https://visitcount.itsvg.in/api?id=Priyanxhuu&label=Profile%20Views&color=12&icon=1&pretty=false)](https://visitcount.itsvg.in)
 
-This profile is used for tsting purposes Visit @Priyannxhuu for projects and more
+This profile is used for testing purposes Visit @Priyannxhuu for projects and more
