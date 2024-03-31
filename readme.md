@@ -20,7 +20,6 @@ I'm a passionate and versatile FrontEnd Developer with expertise in various tech
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </div>
 
-
 I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
 
 ## 💻 Tech Stack
@@ -30,12 +29,6 @@ I enjoy turning complex problems into simple, beautiful, and intuitive solutions
 - **Version Control:** Git , Github
 - **Operating System:** Linux, Windows
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Priyanxhuu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Priyanxhuu&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanxhuu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyannxhuu)
@@ -44,8 +37,6 @@ I enjoy turning complex problems into simple, beautiful, and intuitive solutions
 
 More about me and other links: [More Links](https://priyannxhuu.vercel.app)
 
-Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration ideas!
-
-![https:https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1292677%2Fscreenshots%2F6139167%2Favento.gif&f=1&nofb=1&ipt=af2d9a6554d76c147dad334e543580ed7956118ba061c4cd652ccdc7492e52e3&ipo=images](https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif)
-
 [![](https://visitcount.itsvg.in/api?id=Priyanxhuu&label=Profile%20Views&color=12&icon=1&pretty=false)](https://visitcount.itsvg.in)
+
+This profile is used for tsting purposes Visit @Priyannxhuu for projects and more
