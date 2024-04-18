@@ -52,4 +52,4 @@ More about me and other links: [More Links](https://priyannxhuu.vercel.app)
 
 Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration ideas!
 
-[![](https://visitcount.itsvg.in/api?id=Priyannxhu&label=Profile%20Views&color=12&icon=1&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Priyanxhuu&label=Profile%20Views&color=12&icon=1&pretty=false)](https://visitcount.itsvg.in)
