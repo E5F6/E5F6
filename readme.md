@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate and versatile Full Stack Developer with expertise in various technologies. My journey in coding has led me to become proficient in:
+**I'm a passionate Frontend developer with expertise in building modern, scalable, and user-friendly web applications. My journey in coding has led me to become proficient in:**
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -20,14 +20,14 @@ I'm a passionate and versatile Full Stack Developer with expertise in various te
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
 </div>
 
 
-I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
+**I enjoy turning complex problems into simple, beautiful, and intuitive solutions.**
 
-## Tech Stack
+## 💻 Tech Stack
 
 - **FrontEnd:** HTML, CSS, JavaScript, TypeScript
 - **FrameWorks:** Tailwind CSS, Bootstrap , React JS , Next JS
@@ -37,19 +37,19 @@ I enjoy turning complex problems into simple, beautiful, and intuitive solutions
 - **Version Control:** Git , Github
 - **Operating System:** Linux, Windows
 
-## Let's Connect
+## 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyannxhuu)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Priyannxhuu)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/priyannxhuu)
 
-More about me and other links: [More Links](https://priyannxhuu.vercel.app)
+**Portfolio link: [Portfolio](https://priyanxhuportfolio.vercel.app)**
 
-# GitHub Stats:
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Priyanxhuu&show_icons=true/&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Priyanxhuu&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanxhuu&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration ideas!
+**Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration ideas!**
 
 [![](https://visitcount.itsvg.in/api?id=Priyanxhuu&label=Profile%20Views&color=12&icon=1&pretty=false)](https://visitcount.itsvg.in)
