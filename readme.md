@@ -2,7 +2,7 @@
 
 ## About Me
 
-**I'm a passionate Frontend developer with expertise in building modern, scalable, and user-friendly web applications. My journey in coding has led me to become proficient in:**
+**I'm a passionate Full Stack developer with expertise in building modern, scalable, and user-friendly web applications. My journey in coding has led me to become proficient in:**
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -13,6 +13,8 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
@@ -31,7 +33,7 @@
 
 - **FrontEnd:** HTML, CSS, JavaScript, TypeScript
 - **FrameWorks:** Tailwind CSS, Bootstrap , React JS , Next JS
-- **BackEnd:** 
+- **BackEnd:** Node JS , Express JS
 - **DataBase:** MongoDB, MySql
 - **Languages:** Java, Python, C++, C#
 - **Version Control:** Git , Github
@@ -46,9 +48,15 @@
 **Portfolio link: [Portfolio](https://priyanxhuportfolio.vercel.app)**
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Priyanxhuu&show_icons=true/&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Priyanxhuu&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanxhuu&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=priyanxhuu&theme=apprentice)
+<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyanxhuu&theme=apprentice)
+<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Priyanxhuu&theme=apprentice&hide_border=true)
+<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=priyanxhuu&theme=apprentice)
+<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanxhuu&theme=apprentice&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 **Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration ideas!**
 
