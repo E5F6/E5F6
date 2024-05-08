@@ -48,16 +48,16 @@
 **Portfolio link: [Portfolio](https://priyanxhuportfolio.vercel.app)**
 
 # 📊 GitHub Stats:
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=priyanxhuu&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=E5F6&theme=apprentice)
 <br/>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyanxhuu&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=E5F6&theme=apprentice)
 <br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Priyanxhuu&theme=apprentice&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=E5F6&theme=apprentice&hide_border=true)
 <br/>
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=priyanxhuu&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=E5F6&theme=apprentice)
 <br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanxhuu&theme=apprentice&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=E5F6&theme=apprentice&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 **Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration ideas!**
 
-[![](https://visitcount.itsvg.in/api?id=Priyanxhuu&label=Profile%20Views&color=12&icon=1&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=E5F6&label=Profile%20Views&color=12&icon=1&pretty=false)](https://visitcount.itsvg.in)
